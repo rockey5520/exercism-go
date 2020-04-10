@@ -9,5 +9,6 @@
 |                          Challenge                           |                           Solution                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [hello-world](https://github.com/rockey5520/exercism-go/blob/master/Hello-World/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/Hello-World/hello_world.go) |
+|                          space-age                           |                                                              |
 | [two-fer](https://github.com/rockey5520/exercism-go/blob/master/two-fer/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/two-fer/two_fer.go) |
 
