@@ -8,7 +8,7 @@
 
 # 
 
-|                          Challenge                           | Points |                           Solution                           |
-| :----------------------------------------------------------: | :----: | :----------------------------------------------------------: |
-| [Hello-World](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/interviewprepararionkit/warmupchallenges/sockmerchant/Solution.java) |
-| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) |   15   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/interviewprepararionkit/warmupchallenges/countingvalleys/Solution.java) |
+|                          Challenge                           |                           Solution                           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [Hello-World](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](https://github.com/rockey5520/exercism-go/blob/master/Hello-World/hello_world.go) |
+| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/interviewprepararionkit/warmupchallenges/countingvalleys/Solution.java) |
