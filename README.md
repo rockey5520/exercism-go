@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://exercism.io/profiles/rockey5520">
-        <img height=85 src="https://res.cloudinary.com/rockey5520/image/upload/v1586520692/logos/logo-white-e3be059a4bfc4bf65f196a12105e9cff389b5a67f2065a0862d4ff6153571ef5_uhxkmo.png">
+        <img height=85 src="https://res.cloudinary.com/rockey5520/image/upload/v1586521426/logos/exercism_dbgpbe.svg">
     </a>
     <br>My solutions to Exercism Go problems
 </p>
