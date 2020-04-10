@@ -5,6 +5,7 @@
     <br>My solutions to Exercism Go problems
 </p>
 
+<center>
 
 |                          Challenge                           |                           Solution                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -12,3 +13,4 @@
 | [space-age](https://github.com/rockey5520/exercism-go/blob/master/space-age/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/space-age/space_age.go) |
 | [two-fer](https://github.com/rockey5520/exercism-go/blob/master/two-fer/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/two-fer/two_fer.go) |
 
+</center>
