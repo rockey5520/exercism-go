@@ -10,5 +10,6 @@
 
 |                          Challenge                           |                           Solution                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [Hello-World](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](https://github.com/rockey5520/exercism-go/blob/master/Hello-World/hello_world.go) |
-| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/interviewprepararionkit/warmupchallenges/countingvalleys/Solution.java) |
+| [Hello-World](https://github.com/rockey5520/exercism-go/blob/master/Hello-World/README.md) | [Solution](https://github.com/rockey5520/exercism-go/blob/master/Hello-World/hello_world.go) |
+| [Two Fer](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/interviewprepararionkit/warmupchallenges/countingvalleys/Solution.java) |
+
