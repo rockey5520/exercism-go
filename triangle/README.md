@@ -62,3 +62,5 @@ The Ruby Koans triangle project, parts 1 & 2 [http://rubykoans.com](http://rubyk
 
 ## Submitting Incomplete Solutions
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
+
+when stuck at a particular test case solution https://exercism.io/tracks/go/exercises/triangle/solutions/3500037ba2f64a39b2da9d8a15cfce11 helped me to work around it.

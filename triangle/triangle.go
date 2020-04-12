@@ -24,19 +24,16 @@ func KindFromSides(a, b, c float64) Kind {
 	sort.Float64s(sides[:])
 
 	for _, s := range sides {
-		if (s <= 0 || math.IsNaN(s) || math.IsInf(s, 0)) {
+		if s <= 0 || math.IsNaN(s) || math.IsInf(s, 0) {
 			return NaT
 		}
 	}
 
-	if(sides[0] + sides[1] < sides[2]){
+	if sides[0]+sides[1] < sides[2] {
 		return NaT
-	}
-
-	if sides[0] == sides[1] && sides[0] == sides[2] {
+	} else if sides[0] == sides[1] && sides[0] == sides[2] {
 		return Equ
-	}
-	if sides[0] == sides[1] || sides[1] == sides[2] || sides[2] == sides[0] {
+	} else if sides[0] == sides[1] || sides[1] == sides[2] || sides[2] == sides[0] {
 		return Iso
 	}
 	return Sca
