@@ -15,4 +15,4 @@
 | [hamming](https://github.com/rockey5520/exercism-go/blob/master/hamming/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/hamming/hamming.go) |
 | [leapyear](https://github.com/rockey5520/exercism-go/blob/master/leap/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/leap/leap.go) |
 | [triangle](https://github.com/rockey5520/exercism-go/blob/master/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/triangle/triangle.go) |
-
+| [proverb](https://github.com/rockey5520/exercism-go/blob/master/proverb/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/proverb/proverb.go) |
