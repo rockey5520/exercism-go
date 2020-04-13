@@ -8,17 +8,16 @@ import (
 // Distance function calculates the hamming distance between two string
 func Distance(a, b string) (int, error) {
 	hammingdistance := 0
-	if len(a) == len(b) {
-		if s.Compare(s.ToLower(a), s.ToLower(b)) == 0 {
-			return 0, nil
+	if len(a) != len(b) {
+		return 0, errors.New("strands are of different length")
+	}
+	if s.Compare(s.ToLower(a), s.ToLower(b)) == 0 {
+		return 0, nil
+	}
+	for i := 0; i < len(a); i++ {
+		if a[i] != b[i] {
+			hammingdistance++
 		}
-		for i := 0; i < len(a); i++ {
-			if a[i] != b[i] {
-				hammingdistance = hammingdistance + 1
-			}
-		}
-	} else {
-		return -1, errors.New("strands are of different length")
 	}
 	return hammingdistance, nil
 }
