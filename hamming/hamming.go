@@ -12,16 +12,11 @@ func Distance(a, b string) (int, error) {
 	}
 	runeA := []rune(a)
 	runeB := []rune(b)
-	hammingdistance := 0
+	var hammingdistance int
 	for i := 0; i < len(runeA); i++ {
 		if runeA[i] != runeB[i] {
 			hammingdistance++
-		} else {
-			continue
 		}
-	}
-	if hammingdistance == 0 {
-		return 0, nil
 	}
 	return hammingdistance, nil
 }
