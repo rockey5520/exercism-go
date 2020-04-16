@@ -16,3 +16,4 @@
 | [leapyear](https://github.com/rockey5520/exercism-go/blob/master/leap/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/leap/leap.go) |
 | [triangle](https://github.com/rockey5520/exercism-go/blob/master/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/triangle/triangle.go) |
 | [proverb](https://github.com/rockey5520/exercism-go/blob/master/proverb/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/proverb/proverb.go) |
+| [raindrops](https://github.com/rockey5520/exercism-go/blob/master/raindrops/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/raindrops/raindrops.go) |
