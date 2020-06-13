@@ -18,4 +18,5 @@
 | [proverb](https://github.com/rockey5520/exercism-go/blob/master/proverb/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/proverb/proverb.go) |
 | [raindrops](https://github.com/rockey5520/exercism-go/blob/master/raindrops/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/raindrops/raindrops.go) |
 | [scrabble-score](https://github.com/rockey5520/exercism-go/blob/master/scrabble-score/README.md) | [solution](https://github.com/rockey5520/exercism-go/blob/master/scrabble-score/scrabble_score.go) |
+| [isogram](https://exercism.io/my/solutions/a6b201c8e7944c5b8f091a78153a3e18) | [Solution](https://github.com/rockey5520/exercism-go/blob/master/isogram/isogram.go) |
 
