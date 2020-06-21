@@ -1,12 +1,11 @@
 package diffsquares
 
-// SquareOfSum caluclated Squares of sum
+// SquareOfSum caluclates Squares of sum
 func SquareOfSum(n int) int {
-
 	return (n * (n + 1) / 2) * (n * (n + 1) / 2)
 }
 
-// SumOfSquares caluclated sum of squares
+// SumOfSquares caluclates sum of squares
 func SumOfSquares(n int) int {
 	return n * (n + 1) * (2*n + 1) / 6
 }
