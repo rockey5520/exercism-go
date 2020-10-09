@@ -21,4 +21,5 @@
 | [isogram](https://exercism.io/my/solutions/a6b201c8e7944c5b8f091a78153a3e18) | [solution](https://github.com/rockey5520/exercism-go/blob/master/isogram/isogram.go) |
 | [difference-of-squares](https://exercism.io/my/solutions/dbd5908f69f542748d9a971487098287) | [solution](https://github.com/rockey5520/exercism-go/blob/master/difference-of-squares/difference_of_squares.go) |
 | [luhn](https://exercism.io/my/solutions/093e0a0e3a9641599f9019e705b1f568) | [solution](https://github.com/rockey5520/exercism-go/blob/master/luhn/luhn.go) |
+| [grains](https://exercism.io/my/solutions/e7fc505e6acc45bdbb5b06c8b6ebb088) | [solution](https://github.com/rockey5520/exercism-go/blob/master/grains/grains.go) |
 
